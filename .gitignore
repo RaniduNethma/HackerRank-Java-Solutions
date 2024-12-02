@@ -1,0 +1,25 @@
+# Ignore IntelliJ IDEA specific files
+.idea/
+*.iml
+
+# Ignore build directories
+out/
+build/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore Java-related files
+*.class
+*.jar
+*.war
+*.ear
+
+# Ignore any generated files or user-specific configurations
+*.swp
+*.bak
