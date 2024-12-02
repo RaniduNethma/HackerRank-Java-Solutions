@@ -9,11 +9,11 @@ This repository contains solutions to various Java challenges on HackerRank. Eac
 
 ## 📖 Challenges and Solutions
 
-| No | 🔗 Challenge Link    | 🔗 Solution Link  |
-|----|----------------------|-------------------|
-| 1  | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java/problem) | [WelcomeToJava]() |
-| 2  | [Challenge 2 Name](#) | [Solution.java](#) |
-| 3  | [Challenge 3 Name](#) | [Solution.java](#) |
+| No | 🔗 Challenge Link                                                                                | 🔗 Solution Link             |
+|----|--------------------------------------------------------------------------------------------------|------------------------------|
+| 1  | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java/problem)                | [WelcomeToJava.java]()       |
+| 2  | [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) | [JavaStdinAndStdoutI.java]() |
+| 3  | [next Challenge](#)                                                                              | [Solution.java](#)           |
 
 > **Note:** Links will be updated as challenges are solved and uploaded.
 
