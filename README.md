@@ -14,6 +14,7 @@ This repository contains solutions to various Java challenges on HackerRank. Eac
 | 1  | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java/problem)                | [WelcomeToJava.java](https://github.com/RaniduNethma/HackerRank-Java-Solutions/blob/main/WelcomeToJava.java) |
 | 2  | [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) | [JavaStdinAndStdoutI.java](https://github.com/RaniduNethma/HackerRank-Java-Solutions/blob/main/JavaStdinAndStdoutI.java) |
 | 3  | [Java If-Else](https://www.hackerrank.com/challenges/java-if-else/problem)                       | [JavaIf-Else.java](https://github.com/RaniduNethma/HackerRank-Java-Solutions/blob/main/JavaIf-Else.java)           |
+| 4  | [Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem) | [JavaStdinAndStdoutII.java](https://github.com/RaniduNethma/HackerRank-Java-Solutions/blob/main/JavaStdinAndStdoutII.java) |
 
 > **Note:** Links will be updated as challenges are solved and uploaded.
 
