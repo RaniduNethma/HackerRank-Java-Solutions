@@ -18,6 +18,7 @@ This repository contains solutions to various Java challenges on HackerRank. Eac
 | 5  | [Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem) | [JavaOutputFormatting.java](https://github.com/RaniduNethma/HackerRank-Java-Solutions/blob/main/JavaOutputFormatting.java) |
 | 6  | [Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem) | [JavaLoopsI.java](https://github.com/RaniduNethma/HackerRank-Java-Solutions/blob/main/JavaLoopsI.java) |
 | 7  | [Java Loops II](https://www.hackerrank.com/challenges/java-loops/problem) | [JavaLoopsII.java](https://github.com/RaniduNethma/HackerRank-Java-Solutions/blob/main/JavaLoopsII.java) |
+| 8  | [Java DataTypes](https://www.hackerrank.com/challenges/java-datatypes/problem) | [JavaDataTypes.java](https://github.com/RaniduNethma/HackerRank-Java-Solutions/blob/main/JavaDataTypes.java) |
 
 > **Note:** Links will be updated as challenges are solved and uploaded.
 
