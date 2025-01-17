@@ -19,6 +19,7 @@ This repository contains solutions to various Java challenges on HackerRank. Eac
 | 6  | [Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem) | [JavaLoopsI.java](https://github.com/RaniduNethma/HackerRank-Java-Solutions/blob/main/JavaLoopsI.java) |
 | 7  | [Java Loops II](https://www.hackerrank.com/challenges/java-loops/problem) | [JavaLoopsII.java](https://github.com/RaniduNethma/HackerRank-Java-Solutions/blob/main/JavaLoopsII.java) |
 | 8  | [Java DataTypes](https://www.hackerrank.com/challenges/java-datatypes/problem) | [JavaDataTypes.java](https://github.com/RaniduNethma/HackerRank-Java-Solutions/blob/main/JavaDataTypes.java) |
+| 9  | [Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file/problem) | [JavaEnd_of_file.java](https://github.com/RaniduNethma/HackerRank-Java-Solutions/blob/main/JavaEnd_of_file.java) |
 
 > **Note:** Links will be updated as challenges are solved and uploaded.
 
