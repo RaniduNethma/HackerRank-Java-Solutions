@@ -21,6 +21,7 @@ This repository contains solutions to various Java challenges on HackerRank. Eac
 | 8  | [Java DataTypes](https://www.hackerrank.com/challenges/java-datatypes/problem) | [JavaDataTypes.java](https://github.com/RaniduNethma/HackerRank-Java-Solutions/blob/main/JavaDataTypes.java) |
 | 9  | [Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file/problem) | [JavaEnd_of_file.java](https://github.com/RaniduNethma/HackerRank-Java-Solutions/blob/main/JavaEnd_of_file.java) |
 | 10  | [Java-Static-Initializer-Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem) | [Java_Static_Initializer_Block.java](https://github.com/RaniduNethma/HackerRank-Java-Solutions/blob/main/Java_Static_Initializer_Block.java) |
+| 11  | [Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string/problem) | [Java_Int_to_String.java](https://github.com/RaniduNethma/HackerRank-Java-Solutions/blob/main/Java_Int_to_String.java) |
 
 > **Note:** Links will be updated as challenges are solved and uploaded.
 
